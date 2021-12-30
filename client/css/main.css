@@ -1,0 +1,12 @@
+.page-title {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.page-sub-title {
+    padding-left: 10px;
+}
